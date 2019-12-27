@@ -5,7 +5,7 @@ FIDO2 roaming authenticator implementation using a Raspberry Pi zero
 
 Required:
 
-- [Raspberry Pi Zero](https://www.raspberrypi.org/products/raspberry-pi-zero/) (Required, but WiFi is not used so no need for the more expensive Pi Zero W)
+- [Raspberry Pi Zero](https://www.raspberrypi.org/products/raspberry-pi-zero/) (WiFi is not used so no need for the more expensive Pi Zero W)
 - SD card (8 GB is more than enough)
 - USB cable (micro USB B male to whatever your computer uses, eg USB A male or USB C male)
 
