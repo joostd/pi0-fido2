@@ -8,11 +8,14 @@ Required:
 - [Raspberry Pi Zero](https://www.raspberrypi.org/products/raspberry-pi-zero/) (Required, but WiFi is not used so no need for the more expensive Pi Zero W)
 - SD card (8 GB is more than enough)
 - USB cable (micro USB B male to whatever your computer uses, eg USB A male or USB C male)
-- [Adafruit Infineon Trust M Breakout Board](https://www.adafruit.com/product/4351) (Optional, for protection against cloning)
-- [Qwiic button](https://www.sparkfun.com/products/15585) (Optional, for User Presence)
+
+Optional:
+
+- [Adafruit Infineon Trust M Breakout Board](https://www.adafruit.com/product/4351) (for protection against cloning)
+- [Qwiic button](https://www.sparkfun.com/products/15585) (for User Presence)
 - [SparkFun Qwiic SHIM for Raspberry Pi](https://www.sparkfun.com/products/15794) (when using Qwicc/Stemma boards)
 - [2x20-pin strip male header](https://www.adafruit.com/product/2822) (when using Qwicc/Stemma boards)
-- [Qwiic Cable](https://www.sparkfun.com/products/14426) (0-2, depending on number of Qwicc/Stemma devices used)
+- [Qwiic Cable](https://www.sparkfun.com/products/14426) (0-2, one for each Qwicc/Stemma devices used)
 
 Total costs: around 10-20 USD.
 
